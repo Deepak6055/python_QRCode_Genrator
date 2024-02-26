@@ -27,8 +27,8 @@ This Python script generates a QR code image from a provided URL. It utilizes th
 ##Output
 
 
+![qr_code](https://github.com/Deepak6055/python_QRCode_Genrator/assets/127471071/3afe933a-acc3-4185-87a7-f6b49d2e50d1)
 
-![qr_code](https://github.com/Deepak6055/python_QRCode_Genrator/assets/127471071/9e88a5bf-c51a-4dcc-8bd8-20c1aa8791b3)
 
 
 
